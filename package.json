@@ -16,7 +16,7 @@
     "url": "git+https://github.com/mikeharty/ts-node-boilerplate.git"
   },
   "author": "Mike Harty",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mikeharty/ts-node-boilerplate/issues"
   },
